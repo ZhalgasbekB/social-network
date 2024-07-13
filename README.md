@@ -76,3 +76,8 @@ and run the below command to start the server.
 ```bash
     go run ./cmd
 ```
+
+But if you want to run the code by Docker, you can use the below command to start the server.
+```bash
+    docker-compose up
+```
